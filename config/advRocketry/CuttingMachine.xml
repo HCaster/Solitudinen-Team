@@ -58,7 +58,7 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="100">
 		<input>
-			<itemStack>libvulpes:productboule;1;3</itemStack>
+			<itemStack>qmd:semiconductor;1;2</itemStack>
 		</input>
 		<output>
 			<itemStack>advancedrocketry:wafer;4</itemStack>

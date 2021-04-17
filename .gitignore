@@ -4,7 +4,6 @@
 /coremods/
 /screenshots/
 /saves/
-/mods/
 /XaeroWorldMap/
 /local/
 /logs/
@@ -15,6 +14,9 @@
 /backups/
 /journeymap/
 /scripts/.zsrc
+/mods/memory_repo
+/mods/OpenSecurity
+/mods/railcraft
 
 *.log
 *.json

@@ -65,15 +65,6 @@
 			<itemStack>advancedrocketry:itemupgrade;1;2</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="100" power ="1">
-		<input>
-			<itemStack>advancedrocketry:lens;3</itemStack>
-			<itemStack>minecraft:glass;3</itemStack>
-		</input>
-		<output>
-			<itemStack>advancedrocketry:blocklens</itemStack>
-		</output>
-	</Recipe>
 	<Recipe timeRequired="200" power ="10">
 		<input>
 			<itemStack>minecraft:redstone</itemStack>
@@ -216,15 +207,6 @@
 		</input>
 		<output>
 			<itemStack>advancedrocketry:ic;1;5</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="1000" power ="1">
-		<input>
-			<itemStack>advancedrocketry:ic;1;2</itemStack>
-			<itemStack>advancedrocketry:wafer;2</itemStack>
-		</input>
-		<output>
-			<itemStack>advancedrocketry:satelliteprimaryfunction;1;5</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="1">
