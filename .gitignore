@@ -21,14 +21,15 @@
 
 *.log
 
-/.usercache.json
-/.usernamecache.json
+/patchouli_data.json
+/usercache.json
+/usernamecache.json
 /.ReAuth.cfg
 /icon.png
 /options.txt
 /hotbar.nbt
 /knownkeys.txt
-/.OpenComputersMod-1.7.5.192-lua52-native.64.dll
-/.OpenComputersMod-1.7.5.192-lua53-native.64.dll
-/.optionsof.txt
-/.optionsshaders.txt
+/OpenComputersMod-1.7.5.192-lua52-native.64.dll
+/OpenComputersMod-1.7.5.192-lua53-native.64.dll
+/optionsof.txt
+/optionsshaders.txt
