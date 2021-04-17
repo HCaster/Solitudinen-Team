@@ -18,6 +18,7 @@
 /mods/memory_repo
 /mods/OpenSecurity
 /mods/railcraft
+/scripts/nc_script_addons
 
 *.log
 
