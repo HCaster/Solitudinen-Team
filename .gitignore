@@ -1,5 +1,6 @@
 /.mixin.out/
 /asm/
+/fonts/
 /astralsorcery/
 /coremods/
 /screenshots/
@@ -19,8 +20,9 @@
 /mods/railcraft
 
 *.log
-*.json
 
+/.usercache.json
+/.usernamecache.json
 /.ReAuth.cfg
 /icon.png
 /options.txt
