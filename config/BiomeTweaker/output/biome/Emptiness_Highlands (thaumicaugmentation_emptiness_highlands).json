@@ -1,6 +1,6 @@
 
 {
-  "ID": 150,
+  "ID": 148,
   "Name": "Emptiness Highlands",
   "Resource Location": "thaumicaugmentation:emptiness_highlands",
   "Class": "thecodex6824.thaumicaugmentation.common.world.biome.BiomeEmptinessHighlands",
@@ -20,12 +20,12 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "HILLS",
-    "VOID",
-    "SPARSE",
     "COLD",
-    "MOUNTAIN",
-    "SPOOKY"
+    "SPOOKY",
+    "SPARSE",
+    "VOID",
+    "HILLS",
+    "MOUNTAIN"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],
