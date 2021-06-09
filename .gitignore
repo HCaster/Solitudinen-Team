@@ -19,6 +19,7 @@
 /mods/OpenSecurity
 /mods/railcraft
 /scripts/nc_script_addons
+/mods/
 
 *.log
 
